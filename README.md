@@ -58,7 +58,8 @@ To know more how to use Jenkinsfile, use this documentation on Jenkinsfile. http
 
 # Devops-fully-automated-infracture-deployment-with-Jenkins
 Fully automated and secured Terraform infra pipeline
-![Jenkins Infra Setup] (enkins-learning.drawio.png)
+![Jenkins Infra Setup](jenkins-learning.drawio.png)
+
 ## CICD Infra setup
 1) ###### GitHub setup
     Fork GitHub Repository by using the existing repo "jenkins-terraform-infra-repo" (https://github.com/devopsmike-01/jenkins-terraform-infra-repo.git)     
