@@ -57,7 +57,9 @@ pipeline {
 To know more how to use Jenkinsfile, use this documentation on Jenkinsfile. https://www.jenkins.io/doc/book/pipeline/jenkinsfile/
 
 # Devops-fully-automated-infracture-deployment-with-Jenkins
+
 Fully automated and secured Terraform infra pipeline
+
 ![Jenkins Infra Setup](jenkins-learning.drawio.png)
 
 ## CICD Infra setup
