@@ -81,8 +81,8 @@ Fully automated and secured Terraform infra pipeline
     - SSH into the instance and Run the following commands in the **jenkins.sh** file found in the **installation-files** directory
 
 3) ###### Slack 
-    - **Join the slack channel** `https://join.slack.com/t/devopswithmike/shared_invite/zt-1q6h1yw0j-d3Rt7Bu6rEkPHVBC5y82nw`
-    - **Join into the channel** `#wandaprep-infra-team` or join with this link `https://devopswithmike.slack.com/archives/C082HEGTCJJ`
+    - **Join the slack channel** https://join.slack.com/t/devopswithmike/shared_invite/zt-1q6h1yw0j-d3Rt7Bu6rEkPHVBC5y82nw 
+    - **Join into the channel** `#wandaprep-infra-team` or join with this link https://devopswithmike.slack.com/archives/C082HEGTCJJ
 
 ### Jenkins setup
 1) #### Access Jenkins
